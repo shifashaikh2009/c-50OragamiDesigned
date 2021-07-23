@@ -1,0 +1,19 @@
+h1{
+    color :aqua;
+}
+.header{
+    background-color: cadetblue;
+    display:flex;
+    justify-content: space-between;
+}
+.header2{
+    text-align: center;
+}
+.memo{
+    border:double;
+}
+.items{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
